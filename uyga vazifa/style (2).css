@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+
+.DDD{
+    width: 500px;
+    height: 300px;
+    background-color: dodgerblue;
+}
+img{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.box{
+    display: flex;
+    margin-left: 800px;
+    gap: 50px;
+    margin-top: -50;
+}
+span{
+    display: flex;
+    gap: 50px;
+    color: dodgerblue;
+}

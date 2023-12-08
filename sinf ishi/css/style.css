@@ -1,0 +1,20 @@
+* {
+    font-family: sans-serif;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card {
+    width: 400px;
+    height: 400px;
+    background-color: dodgerblue;
+    border: 5px solid black;
+}
